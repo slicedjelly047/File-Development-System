@@ -4,10 +4,8 @@ A lightweight browser-based file management tool built with Flask and Python. Pe
 and folder operations like create, delete, rename, and move directly from a user-friendly web
 interface.
 
-## 📸 Demo Screenshots
-
-### 📁 Home Page
-![Home Page](assets/Screenshot 2024-10-26 132454.png)
+### Home Page
+<img width="1098" height="964" alt="image" src="https://github.com/user-attachments/assets/a5a269c6-5601-4759-90af-e471788363e3" />
 
 ---
 Features
